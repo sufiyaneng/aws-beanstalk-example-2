@@ -1,11 +1,12 @@
 package com.techprimers.aws;
+package br.com.SpringApp.SpringApp;
+package br.com.SpringApp.SpringApp.controller;
+package br.com.SpringApp.SpringApp.model;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import package br.com.SpringApp.SpringApp;
-import package br.com.SpringApp.SpringApp.controller;
-import package br.com.SpringApp.SpringApp.model;
+ 
 
 
 @RequestMapping("/hello")
