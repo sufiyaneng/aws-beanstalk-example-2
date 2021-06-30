@@ -1,10 +1,10 @@
 package com.techprimers.aws;
+package br.com.SpringApp.SpringApp;
+package br.com.SpringApp.SpringApp.controller;
+package br.com.SpringApp.SpringApp.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import package br.com.SpringApp.SpringApp;
-import package br.com.SpringApp.SpringApp.controller;
-import package br.com.SpringApp.SpringApp.model;
 
 @SpringBootApplication
 public class AwsElasticBeanstalkExample2Application {
